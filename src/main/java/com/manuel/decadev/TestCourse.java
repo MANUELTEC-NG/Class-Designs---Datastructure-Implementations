@@ -1,6 +1,6 @@
 package com.manuel.decadev;
 
-public class Main {
+public class TestCourse {
 
     public static void main(String[] args) {
 	// write your code here
