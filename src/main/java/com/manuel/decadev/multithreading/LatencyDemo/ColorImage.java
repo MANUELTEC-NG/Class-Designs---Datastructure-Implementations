@@ -1,4 +1,4 @@
-package com.manuel.decadev.multithreading.Cororization;
+package com.manuel.decadev.multithreading.LatencyDemo;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
